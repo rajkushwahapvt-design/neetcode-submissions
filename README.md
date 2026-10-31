@@ -1,72 +1,107 @@
-# NeetCode Solutions — @rajkushwahapvt-design
+# 🚀 NeetCode – Data Structures & Algorithms
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+Welcome to my **NeetCode DSA Repository**!
 
----
+This repository contains my solutions to Data Structures and Algorithms problems inspired by the NeetCode roadmap and LeetCode.
 
-## What is this?
+My goal is to strengthen problem-solving skills, develop algorithmic thinking, and prepare for technical interviews at top product-based companies.
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+## 👨‍💻 About This Repository
 
----
+I'm consistently practicing DSA problems using Python, focusing on understanding the logic, optimizing solutions, and learning different problem-solving patterns.
 
-## How GitHub Sync works
+This repository serves as a record of my DSA learning journey and continuous improvement.
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+## 🛠️ Language Used
 
----
+* Python 3
 
-## Repository structure
+## 📚 Topics Covered
 
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
+| #  | Topic                 | Status        |
+| -- | --------------------- | ------------- |
+| 1  | Arrays & Hashing      | 🔄 Practicing |
+| 2  | Two Pointers          | 🔄 Practicing |
+| 3  | Sliding Window        | 🔄 Practicing |
+| 4  | Stack                 | 📌 Upcoming   |
+| 5  | Binary Search         | 📌 Upcoming   |
+| 6  | Linked List           | 📌 Upcoming   |
+| 7  | Trees                 | 📌 Upcoming   |
+| 8  | Tries                 | 📌 Upcoming   |
+| 9  | Heap / Priority Queue | 📌 Upcoming   |
+| 10 | Backtracking          | 📌 Upcoming   |
+| 11 | Graphs                | 📌 Upcoming   |
+| 12 | Dynamic Programming   | 📌 Upcoming   |
+| 13 | Greedy                | 📌 Upcoming   |
+| 14 | Intervals             | 📌 Upcoming   |
+| 15 | Bit Manipulation      | 📌 Upcoming   |
+| 16 | Math & Geometry       | 📌 Upcoming   |
 
+## 🎯 My Learning Approach
+
+For every problem, I focus on:
+
+1. Understanding the problem statement.
+2. Developing brute-force intuition.
+3. Identifying the optimal approach.
+4. Implementing the solution in Python.
+5. Analyzing Time and Space Complexity.
+6. Revisiting difficult problems to improve problem-solving skills.
+
+## 📂 Repository Structure
+
+```text
+NeetCode/
+│
+├── Arrays_and_Hashing/
+├── Two_Pointers/
+├── Sliding_Window/
+├── Stack/
+├── Binary_Search/
+├── Linked_List/
+├── Trees/
+├── Tries/
+├── Heap_Priority_Queue/
+├── Backtracking/
+├── Graphs/
+├── Dynamic_Programming/
+├── Greedy/
+├── Intervals/
+├── Bit_Manipulation/
+├── Math_and_Geometry/
+│
+└── README.md
 ```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
 
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
+## 📈 Coding Profiles
 
----
+* **LeetCode:** [Raj Kushwaha](https://leetcode.com/u/Rajkushwaha2006/)
+* **GeeksforGeeks:** [Raj Kushwaha](https://www.geeksforgeeks.org/user/rajkushwaha2006/)
 
-## Supported languages
+## 🏆 My Goals
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+* Master all major DSA patterns.
+* Solve 1000+ quality DSA problems.
+* Improve problem-solving speed and accuracy.
+* Develop strong algorithmic thinking.
+* Prepare for technical interviews at top product-based companies.
+
+## 📖 Resources
+
+* [NeetCode Roadmap](https://neetcode.io/roadmap)
+* [LeetCode](https://leetcode.com/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+## 🤝 Connect With Me
+
+**Raj Kushwaha**
+B.Tech CSE (AI & ML) | Aspiring Software Engineer
+
+* GitHub: [rajkushwahapvt-design](https://github.com/rajkushwahapvt-design)
+* LinkedIn: [Connect with me](https://www.linkedin.com/)
 
 ---
 
-## Settings
+⭐ If you find this repository helpful, consider giving it a star!
 
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
-
----
-
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+**Consistency > Motivation | Learning by Solving.**
